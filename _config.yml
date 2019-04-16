@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "pagenhonhangvl"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Minh Nguyen"
+description              : "An amazing website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Minh Nguyen"
   avatar           : "/assets/images/ava.jpg"
-  bio              : "I am an amazing person."
+  bio              : "- Bắt chuyện với em như nào bây giờ? Anhhếtcáchrồi <br> - Giữa đôita làm gì có khoảng cách đúng không? :)"
   location         : "Hanoi"
   email            :
   links:

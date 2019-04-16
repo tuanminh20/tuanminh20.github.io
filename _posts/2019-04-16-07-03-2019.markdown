@@ -1,0 +1,20 @@
+---
+layout: "single"
+title: "07.03.2019"
+date: "2019-04-16 17:20"
+categories:
+  - Unsent Letters
+---
+
+{% include video id="KfU84PDdsZY" provider="youtube" %}
+
+**07.03.19 05:25**
+
+Trận đấu kết thúc, cảm xúc thăng hoa ban nãy cũng nguôi rồi. Và trong một thoáng anh nghĩ đến em. 
+
+Người ta bảo cơ hội thắng của M.U chỉ dưới 5%, rằng trong lịch sử dài lòng thòng của bóng đá chưa đội nào đi tiếp trong hoàn ảnh éo le như thế. Nhưng mà bóng đá đâu phải trò xác suất thống kê em nhỉ - ai mà biết trước được điều gì khi bóng còn chưa lăn. Và logic chiến thắng chính là ở chỗ nó không có logic nào hết, trừ việc bạn không đầu hàng. Phép màu lại vẫn thường xuất hiện ở phút 90 cơ mà. 
+
+Cơ mà mải liên thiên quá, anh vẫn chưa chắc lắm là sẽ đưa em cuốn sách này đâu.
+
+> P/S: "Bệnh nhân nhiễm HIV thứ hai trên thế giới được chữa khỏi" <br>
+> <cite>Newsfeed<cite>

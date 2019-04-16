@@ -2,7 +2,8 @@
 layout: single
 title: "Dép hường nhìn vẫn nam tính!"
 date: "2019-04-16 16:07:00 +0700"
-categories: xamxi
+categories:
+  - Xàm xí
 toc: true
 ---
 

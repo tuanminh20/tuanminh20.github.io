@@ -14,4 +14,4 @@ excerpt: ""
 
 > Chuyện tình ta như iphone, mở ra từ cái chạm tay
 
-Nên là chạm vào đây mấy ông êi [My Tumblr](https://duylinh20.tumblr.com/)
+Nên là chạm vào đây mấy ông êi => [My Tumblr](https://duylinh20.tumblr.com/)

@@ -2,6 +2,10 @@
 layout: "single"
 title: "Blockchain theo kiểu Tí Tèo"
 date: "2019-04-17 18:35:56 +0700"
+categories: tech
+tags:
+  - Blockchain
+  - Explain like I'm 5
 ---
 
 Giả sử bây giờ chúng ta có hai bạn Tí và Tèo. Một ngày nọ, Tí mượn Tèo 50k mua chuối, Tèo ghi một tờ giấy rằng Tí đang nợ 50k và có chữ kí của Tí trên đó. Vài ngày sau, Tí lật kèo, chối rằng không biết tờ giấy nợ đó và Tèo đã làm giả giấy nợ để tống tiền Tí. Okay, Tí chơi lầy thì Tèo biết làm sao để đòi nợ – tình bạn tan vỡ vì 50k.

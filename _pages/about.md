@@ -7,6 +7,14 @@ author_profile: true
 toc: true
 ---
 
+{% include figure image_path="https://i.imgur.com/pBTChX1.jpg" caption="Hmm?" %}
+
+> Cả cái page nhố nhăng có mỗi chỗ này là nghiêm túc :>
+
+>> Thật ra lúc làm việc tớ nghiêm túc lắm. Thề!
+
+***
+
 **MINH** TUAN NGUYEN
 <br>
 **Hanoi** (willing to relocate; takes 20-30 days)

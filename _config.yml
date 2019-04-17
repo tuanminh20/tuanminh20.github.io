@@ -106,29 +106,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cáithằngnhốnhăng"
+  name        : "Cáithằngnhốnhăng"
   avatar           : "/assets/images/ava.jpg"
   bio              : "- Bắt chuyện với em như nào bây giờ? Anhhếtcáchrồi <br> - Giữa đôita làm gì có khoảng cách đúng không? :)"
   location         : "Hanoi"
-  email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:minhnguyen.fu@gmail
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "//tuanminh20.github.io/mah3log/"
-    - label: "Linkedin"
-      icon: "fas fa-fw fa-linkedin-in"
-      url: "//www.linkedin.com/in/minh-nguyen-14baaa183/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "//github.com/tuanminh20"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "//github.com/oNguyenTuanMinh"
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+      icon: "fab fa-fw fa-facebook"
       url: "//fb.com/duylinh20"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
@@ -139,6 +126,9 @@ author:
     - label: "Soundcloud"
       icon: "fab fa-fw fa-soundcloud"
       url: "//soundcloud.com/minh-nguyen-238/sets/missu"
+    - label: "Tumblr"
+      icon: "fab fa-fw fa-tumblr"
+      url: "//duylinh20.tumblr.com"
 
 # Site Footer
 footer:

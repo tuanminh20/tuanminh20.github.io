@@ -4,6 +4,7 @@ title: "07.03.2019 05:25"
 date: "2019-04-16 17:20"
 categories:
   - Unsent Letters
+excerpt: "Trận đấu kết thúc, cảm xúc thăng hoa ban nãy cũng nguôi rồi. Và trong một thoáng anh nghĩ đến em."
 ---
 
 {% include video id="KfU84PDdsZY" provider="youtube" %}

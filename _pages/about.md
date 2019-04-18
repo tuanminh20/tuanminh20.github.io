@@ -5,15 +5,10 @@ permalink: /about/
 title: "About"
 author_profile: true
 toc: true
+toc_label: "On this page"
 ---
 
-{% include figure image_path="https://i.imgur.com/pBTChX1.jpg" caption="Hmm?" %}
-
-> Cả cái page nhố nhăng có mỗi chỗ này là nghiêm túc :>
-
->> Thật ra lúc làm việc tớ nghiêm túc lắm. Thề!
-
-***
+{% include figure image_path="https://i.imgur.com/pBTChX1.jpg" caption="Hmm?" caption_center="true" class="align-right" style="margin-top: 0; margin-bottom: 0; max-width: 300px;" %}
 
 **MINH** TUAN NGUYEN
 <br>
@@ -26,7 +21,11 @@ toc: true
 **SKYPE:** d.linh9
 <br>
 **FACEBOOK:** [fb.com/duylinh20](//fb.com/duylinh20)
-<br>
+
+> Cả cái page nhố nhăng có mỗi chỗ này là nghiêm túc :>
+>> Thật ra lúc làm việc tớ nghiêm túc lắm. Thề!
+
+<div style="clear: both;"></div>
 
 ## EXPERIENCE
 

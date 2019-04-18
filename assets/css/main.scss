@@ -10,3 +10,12 @@
 .site-logo img {
   max-height: 3rem;
 }
+
+.archive__item-title {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  a {
+    text-decoration: none;
+  }
+}

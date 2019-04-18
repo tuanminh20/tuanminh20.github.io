@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Tôi đang ở trong một mối quan hệ tuyệt vời"
+title: "Mối quan hệ tuyệt vời"
 date: "2019-04-17 11:20"
 categories: wholesome
 tags:
@@ -82,7 +82,7 @@ And to you, I'm here, being with you and all your problems go with, even mental 
 
 (Ọe ọe, kinh quá, sến quá, tóm lại là em yêu anhhhh)
 
-tái bút: lêu lêu bọn chưa có người yêu :v 
+tái bút: lêu lêu bọn chưa có người yêu :v
 
 Nói thế thôi, thà yêu muộn còn hơn yêu nhầm mấy bồ ạ, ngủ đi để có 1 làn da đẹp nào!
 {% endraw %}

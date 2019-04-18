@@ -53,9 +53,11 @@ frontMatterDate: "{year}-{month}-{day} {hour}:{minute}:{second} +0700"
 # Front matter template
 frontMatter: """
 ---
-layout: "{layout}"
+layout: "single"
 title: "{title}"
 date: "{date}"
+categories:
+tags:
 ---
 """
 

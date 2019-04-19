@@ -1,0 +1,65 @@
+---
+layout: "single"
+title: "kitkat"
+date: "2019-04-19 17:52:50 +0700"
+categories: wholesome
+tags:
+  - reddit
+  - wholesomememes
+---
+
+{% include figure image_path="https://i.imgur.com/anawHxZ.jpg" caption="" %}
+
+r/funny
+u/hexatIoist (6.4k points)<br>
+Đại học khổ quá man
+
+____________________
+
+Link Reddit: https://redd.it/bek31u
+
+____________________
+
+u/DalekForeal (572 points)<br>
+Học cách khóa cửa xe có lẽ sẽ là bài học duy nhất mà bồ được học miễn phí ở đại học. Ờ thì, với cái giá là thanh KitKat...
+
+>u/devpsaux (172 points)<br>
+Thế rồi cửa sổ bồ cũng bị đập thôi. Bài học tốt hơn là đừng để bất cứ thứ gì có thể thấy được ở trong xe. Tui có mấy người bạn bị đập vỡ cửa kính chỉ vì vài đồng tiền lẻ đặt trong khay để ly.
+
+>>u/HereForAnArgument (62 points)<br>
+Có nguyên một nhóm trộm cơ hội sẽ lấy đồ khi cửa không khóa nhưng không đi xa đến mức đập vỡ cửa sổ. Nếu tụi nó thực sự muốn thứ ở trong thì cũng sẽ làm thôi, ý tôi là khiến nó phiền phức hơn để tụi nó cảm thấy không đáng làm vậy. Tôi lúc nào cũng khóa cửa xe và mới bị đập kính một lần. Có lúc tôi không khóa cửa thì ba cái đồ vô giá trị với tụi nó nhưng cực quan trọng với tôi bị trộm hết chỉ vì bọn chúng có thể lấy được.
+
+>>>u/andthenhesaidrectum (16 points)<br>
+Tôi từng có một cái ô tô Wrangler mui mềm. Nó có mấy cái cửa sổ zipper cũng mềm luôn. Tôi rất ít khi dựng mui lên và đóng cửa sổ, nhưng cái ngày tôi làm vậy, tên nào đó đã dùng dao rạch cửa sổ để lấy cái túi không hề có giá trị của tôi, bên trong là bộ đồ tập gym bẩn thỉu và cái DVD mà tôi chuẩn bị đem trả. Tốn mất $500 để sửa lại cái cửa sổ nhựa. Tôi còn không biết là bữa đó có khóa nó không nữa, nhưng tôi sẽ không bao giờ khóa cái Jeep khốn khiếp đó nữa, và tôi luôn để zipper hơi hở tí nên bạn có thể đưa một ngón tay vào để mở nó ra.
+
+>>>u/Supsoup_ (10 points)<br>
+trừ việc cái cửa sổ đó ngốn tầm 500 đô để thay nên tui thà bị mất thanh kit kat
+
+>>>>u/tepkel (39 points)<br>
+Hãy làm cửa sổ bằng kit kat. Khi đó tên cướp sẽ tha cho bạn.
+
+____________________
+
+u/EthanEnglish_ (93 points)<br>
+Phần còn lại của câu chuyện: time . com /4558622/stolen-kit-kat-reward/
+T/L: bỏ dấu cách để vào link. Tóm tắt cho ai lười đọc là sau khi quay lại xe và thấy thanh Kitkat biến mất chỉ còn lại lời nhắn của tên trộm, Jobbins đăng lên Twitter và bài viết được chú ý đến mức tới tai cty KitKat và đại diện cty quyết định nhét 6,500 thanh kẹo vô xe ổng để ổng chia với mấy người trong trường.
+
+>u/darkstar161 (88 points)<br>
+"và, rất ngạc nhiên, tên trộm để lại một lời nhắn giải thích (nhưng không có ý xin lỗi) cho anh ấy"
+Wtf Time, rõ là tên đó nói xin lỗi trong tờ giấy mà...
+
+____________________
+
+u/mommarun (49 points)<br>
+Chữ viết như của học sinh lớp 3 vậy.
+
+>u/padizzledonk (42 points)<br>
+đó là chuyện sẽ say ra khi bạn say lúc 9 giờ sáng
+
+____________________
+
+u/JericoJack (33 points)<br>
+Thật lòng mà nói, tên trộm đã giúp ổng đấy... Nếu không thì thanh Kit-Kat rất có thể bị chảy trong khay đựng ly, tạo ra một đống bầy nhầy trong miếng giấy bọc. Chủ xe ắt hẳn trong lúc vội, ví dụ như khi có một cuộc hẹn, hay phỏng vấn, sẽ cố ăn đống sô-cô-la chảy gớm ghiếc đó dẫn tới một dải vết bẩn khó coi dính trên áo hoặc quần ổng mà ổng có thể không nhận ra... Và dựa trên độ đặc của Kit-Kat thì rất dễ để nhầm đó là phưn... Thôi rồi lượm ơi.
+
+>u/darth_bader_ginsburg (6 points)<br>
+bồ đã thuyết phục được tui, giờ thì tui muốn ủng hộ tên trộm kit kat rồi

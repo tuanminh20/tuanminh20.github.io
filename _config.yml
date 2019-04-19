@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : '"Nhố nha nhố nhăng!" - Anh Huycun'
 title_separator          : "-"
 name                     : "Minh Nguyen"
-description              : "An amazing website"
+description              : "Tim anh có người vào khi em ngó vào cười"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

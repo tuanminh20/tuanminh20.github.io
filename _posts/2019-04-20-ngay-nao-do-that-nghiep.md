@@ -4,6 +4,7 @@ title: "Ngày nào đó ... thất nghiệp"
 date: "2019-04-20 19:37:26"
 categories:
   - Unsent Letters
+excerpt: "Rồi Em nhận ra: Hóa ra từ bỏ một công việc mình từng yêu thích cũng chẳng có gì to tát lắm."
 ---
 
 {% include video id="658SLwYv_0w" provider="youtube" %}

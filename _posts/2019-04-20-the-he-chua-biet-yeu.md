@@ -6,6 +6,7 @@ categories:
   - Xàm xí
 tags:
   - love
+excerpt: "Có những ngày trái tim mệt mệt và muốn hư thì phải biết yêu bằng lý trí nữa"
 ---
 
 {% include video id="CM3F58zsSkc" provider="youtube" %}

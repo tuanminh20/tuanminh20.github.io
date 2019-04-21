@@ -13,7 +13,7 @@ toc_label: "Content"
 toc_sticky: true
 ---
 
-{% include figure image_path="https://i.imgur.com/i9fueRS.jpg" caption="Leader là lại gánh team phải không ? :))))" %}
+{% include figure image_path="https://i.imgur.com/i9fueRS.jpg" caption="Vai trò của Leader là gánh team?" %}
 
 **Warning**:
 {: .notice--warning}

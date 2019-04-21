@@ -2,6 +2,7 @@
 layout: "single"
 title: "Blockchain theo kiểu Tí Tèo"
 date: "2019-04-17 18:35:56 +0700"
+featured: true
 categories: tech
 tags:
   - Blockchain

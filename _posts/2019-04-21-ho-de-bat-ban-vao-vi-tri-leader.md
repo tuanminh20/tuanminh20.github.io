@@ -1,5 +1,6 @@
 ---
 layout: single
+featured: true
 title: "Họ đề bạt bạn vào vị trí leader: ngầu đấy, giờ sao?"
 date: "2019-04-21 10:15:04"
 categories:

@@ -2,6 +2,7 @@
 layout: "single"
 title: "Review chê: Gọi là Tổ chim Xanh, mà sao không có con chim nào?"
 date: "2019-04-16 18:59"
+featured: true
 categories:
   - Xàm xí
 classes: wide

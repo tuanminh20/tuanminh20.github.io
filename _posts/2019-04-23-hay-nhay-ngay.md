@@ -28,7 +28,7 @@ Tôi biết nhiều người trong chúng ta sẽ nói rằng đó là do nướ
 
 Chúng ta đều cần thay đổi theo mọi người và những tình huống, nhưng ta cần phải chắc chắn xem lúc nào ta nên điều chỉnh và lúc nào ta nên từ bỏ để bước tiếp. Có những **thời điểm** ta cần phải đối diện với tình huống và đưa ra những hành động phù hợp.
 
-Nếu ta cứ để người khác bóc lột chính ta về mặt thể chất, cảm xúc, tài chính, tín ngưỡng hay tâm lí, họ sẽ tiếp tục làm vậy.
+Nếu ta cứ để người khác **bóc lột** chính ta về mặt thể chất, cảm xúc, tài chính, tín ngưỡng hay tâm lí, họ sẽ tiếp tục làm vậy.
 
 Hãy để ta quyết định xem lúc nào cần phải nhảy.
 
